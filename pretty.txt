@@ -1,0 +1,2 @@
+here lies the text, why is the word "is" red? No clue
+A monoid is a monad in the category of endofunctors
