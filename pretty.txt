@@ -2,3 +2,7 @@ Here lies the text, why is the word "is" red? No clue
 A monad is a monoidd in the category of endofunctors, what's the problem?
 Actually, a monad is an internal monad in the bicategory of categories
 But also an endofunctor that looks like a monoid
+
+A monoid is a category with one object
+
+A category is a monad in the bicategory of span(Class)
