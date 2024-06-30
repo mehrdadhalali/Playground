@@ -1,3 +1,4 @@
 Here lies the text, why is the word "is" red? No clue
 A monad is a monoidd in the category of endofunctors
-Actually, a monad is an endofunctor that looks like a monoid
+Actually, a monad is an internal monad in the bicategory of categories
+But also an endofunctor that looks like a monoid
