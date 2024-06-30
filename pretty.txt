@@ -4,3 +4,5 @@ Actually, a monad is an internal monad in the bicategory of categories
 But also an endofunctor that looks like a monoid
 
 A monoid is a category with one object
+
+A category is a monad in the bicategory of span(Class)
